@@ -9,7 +9,7 @@ What better way to do it than with an App, that is
 
 1) not written with a profit motive
 2) open-source
-3) free for those that are diagnosed with MS or those that are care-givers of MS patients 
+3) avilable as a web-app (at least initially) for anyone to use
 
 I have a fairly good idea as to what I would like to see in the App. As I progress with the App, I will be contributing it to this Git repository.
 
