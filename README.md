@@ -15,5 +15,36 @@ I have a fairly good idea as to what I would like to see in the App. As I progre
 
 I just opened this Git repository to see if there are others interested in pitching the time to develop the app. Please ping me if this interests you.
 
+In an essence, I'm thinking of the following features
+
+Track my MS Journey - 
+Date of diagnosis, 
+Medication History
+Date of relapses,
+Dr’s Appointments & Reminders
+Dates of Imaging 
+Upload, View & Share DICOM images (HIPAA??)
+
+Simple exercises for well being-
+Paced Auditory Serial Addition Test (PASAT) exercise
+Guess the phone number (Memory exercise)
+Simple math exercises
+Hand-eye coordination exercises 
+Check for sensitivity with virtual tuning fork
+Tongue movement exercises
+Vision exercises
+25 Foot walk - speed tracker
+
+Resources - 
+Daily reminders for awareness of sensations 
+Daily heat-index alert - Prevent an exacerbation
+Daily food tracker - Could it be what I ate or how much I ate? 
+How to read lesion from an Image?
+Track  Vitamin D/B12/Potassium levels
+Daily MS (research/drugs/therapies) news alerts
+Forums
+ChatBot
+Relapse prediction
+
 
 
