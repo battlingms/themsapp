@@ -34,6 +34,7 @@ Check for sensitivity with virtual tuning fork
 Tongue movement exercises
 Vision exercises
 25 Foot walk - speed tracker
+Depth Perception Testing similar to https://www.mediacollege.com/3d/depth-perception/test.html
 
 Resources - 
 Daily reminders for awareness of sensations 
